@@ -1,2 +1,2 @@
-# Chattr
-Chattr Landing Page
+# MixCHat
+MixChat Landing Page
